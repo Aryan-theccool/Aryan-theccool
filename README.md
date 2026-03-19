@@ -12,7 +12,7 @@
 
 <!-- Social Badges -->
 [![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Aryan-theccool)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
 
 </div>
@@ -186,12 +186,12 @@ A **multi-course aggregation platform** focused on education accessibility.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryansinghbhadoria&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansinghbhadoria&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryan-theccool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-theccool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryansinghbhadoria&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-theccool&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryansinghbhadoria&theme=tokyo-night&bg_color=0f0c29&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-theccool&theme=tokyo-night&bg_color=0f0c29&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -252,7 +252,7 @@ A **multi-course aggregation platform** focused on education accessibility.
   <img src="https://img.shields.io/badge/Email-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/aryansinghbhadoria">
+<a href="https://leetcode.com/Aryan-theccool">
   <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
@@ -263,7 +263,7 @@ A **multi-course aggregation platform** focused on education accessibility.
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=aryansinghbhadoria&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Aryan-theccool&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
