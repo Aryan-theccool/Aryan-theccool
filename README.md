@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social Badges -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/](https://leetcode.com/u/aryanbhadoria111111/))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Aryan-theccool)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
 
@@ -165,7 +165,7 @@ A **multi-course aggregation platform** focused on education accessibility.
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/aryansinghbhadoria?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/aryanbhadoria111111?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
 
 ### Problem Solving Breakdown
 
@@ -252,7 +252,7 @@ A **multi-course aggregation platform** focused on education accessibility.
   <img src="https://img.shields.io/badge/Email-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/Aryan-theccool">
+<a href="https://leetcode.com/u/aryanbhadoria111111/">
   <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
