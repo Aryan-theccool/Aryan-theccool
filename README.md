@@ -187,12 +187,14 @@ A **multi-course aggregation platform** focused on education accessibility.
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryan-theccool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-theccool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-theccool&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-theccool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&cache_seconds=0" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-theccool&theme=tokyo-night&bg_color=0f0c29&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-theccool&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&cache_seconds=0" alt="GitHub Streak" />
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-theccool&theme=tokyo-night&bg_color=0f0c29&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true&cache_seconds=0" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
