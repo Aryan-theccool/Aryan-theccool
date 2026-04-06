@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social Badges -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/](https://leetcode.com/u/aryanbhadoria111111/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aryanbhadoria111111/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Aryan-theccool)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
 
@@ -103,57 +103,67 @@ Solving the **client-developer expectation mismatch** problem with AI at its cor
 </td>
 <td width="50%" valign="top">
 
-### 🌿 Sus10X — Green Crypto Mining
-> *Making blockchain sustainable*
+### 🏛️ Dharohar — Heritage Protection Platform
+> *AWS AI for Bharat Hackathon — Finals*
 
-A green crypto mining initiative targeting **CO₂ reduction** and **e-waste elimination**.
+Protecting India's traditional knowledge from **biopiracy** using AWS AI — digitize, validate, and monetize heritage with legal-grade proof.
 
-**Highlights:**
-- ♻️ Renewable energy-powered ASIC chips
-- 🌍 Sustainable computing architecture
-- ⚡ Energy-efficient blockchain mining
-- 🔧 Hardware + software integration
+**Features:**
+- 🎙️ Multi-dialect voice transcription (AWS Transcribe + Bedrock)
+- 🛡️ AI-powered Biopiracy Risk Scanning (Claude 3 Haiku)
+- 🏅 Digital Passports with SHA-256 immutable ledger
+- 💰 Smart contract royalty distribution (80% to communities)
+- ⚡ 11 Lambda functions + 9 AWS services live
 
-> Mining the future, not destroying it.
+> *"Heritage is not just memory. It's property."*
 
-![Status](https://img.shields.io/badge/Status-Active-22C55E?style=flat-square)
-![Type](https://img.shields.io/badge/Type-GreenTech-22C55E?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square)
+![Type](https://img.shields.io/badge/Type-AWS_Hackathon-FF9900?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Bedrock%20%7C%20Lambda%20%7C%20DynamoDB-232F3E?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 MindWell — Mental Wellness App
-> *Scalable React Architecture*
+### 🌿 Astitva — AI-Powered FRA Governance Platform
+> *Published — IJAITR Vol. 3, Jan-Jun 2026*
 
-Converted a large **HTML-based app** into a clean, modern **React architecture**.
+Transforming India's **Forest Rights Act** implementation with an autonomous AI agent — digitizing tribal land claims, mapping micro-assets via GIS, and automating scheme recommendations.
 
-**What I did:**
-- ⚛️ Full React component refactor
-- 🎨 UI/UX redesign & responsive layout
-- 🧱 Reusable, scalable component system
-- 🔄 Improved state management flow
+**Features:**
+- 📄 OCR + BERT-NER pipeline for legacy document digitization
+- 🗺️ WebGIS Atlas with PostGIS spatial database & Leaflet maps
+- 🧠 Claim Health Scoring Model (89.2% DSS accuracy)
+- ⚡ 67% reduction in processing time across 15,000 pilot claims
+- 🏛️ Dual platform — ASTITVA for officials + NyayaSetu for communities
 
-![Status](https://img.shields.io/badge/Status-Completed-3B82F6?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-React.js-61DAFB?style=flat-square)
+> *Bridging justice, sustainability, and technology for tribal India.*
+
+![Status](https://img.shields.io/badge/Status-Published-22C55E?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Research%20%7C%20GovTech-3B82F6?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-React%20%7C%20FastAPI%20%7C%20PostGIS%20%7C%20AWS-6D28D9?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Brightern — Course Aggregator Platform
-> *EdTech for Everyone*
+### 🛡️ RealtimeGuard — AI Fraud Detection System
+> *Blockchain-Secured Financial Intelligence*
 
-A **multi-course aggregation platform** focused on education accessibility.
+Real-time transaction monitoring with **PMLA compliance**, Ethereum-based immutable audit trails, and instant fraud flagging.
 
-**Capabilities:**
-- 📝 Multi-course registration & linking
-- 🧭 Optimized user flow & navigation
-- 🏛️ Scalable platform architecture
-- 🌐 Education accessibility focused
+**Features:**
+- 🕵️ Live fraud detection — Structuring, CTR, Velocity Spikes
+- ⛓️ Ethereum ECDSA-signed immutable blockchain audit log
+- 🔍 SHA-256 tamper detection with integrity verification
+- 📡 WebSocket-powered live transaction feed
+- 💾 Hybrid NeDB + in-memory high-performance storage
+
+> *If the chain breaks, the hack is caught.*
 
 ![Status](https://img.shields.io/badge/Status-Completed-3B82F6?style=flat-square)
-![Type](https://img.shields.io/badge/Type-EdTech-F59E0B?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-React%20%7C%20Node.js%20%7C%20Web3.js-61DAFB?style=flat-square)
+![Type](https://img.shields.io/badge/Type-FinTech%20%7C%20Security-EF4444?style=flat-square)
 
 </td>
 </tr>
@@ -190,9 +200,7 @@ A **multi-course aggregation platform** focused on education accessibility.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-theccool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&cache_seconds=0" />
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-theccool&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&cache_seconds=0" alt="GitHub Streak" />
-
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-theccool&theme=tokyo-night&bg_color=0f0c29&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true&cache_seconds=0" alt="Contribution Graph" width="100%" />
 </div>
@@ -209,7 +217,7 @@ A **multi-course aggregation platform** focused on education accessibility.
 └── 🔄 Deep dive into System Design
 
 🚀 MID TERM
-├── ⏳ Launch Sus10X MVP
+├── ⏳ Launch Dharohar for Indian Communities
 ├── ⏳ Deploy AI Workflow Platform Beta
 ├── ⏳ Build SaaS income streams via AI
 └── ⏳ Contribute to Open Source
