@@ -37,6 +37,14 @@ Status      : Open to Internships ✅
 Contact     : aryansingh230477@acropolis.in
 ```
 
+```yaml
+# 🎓 Academics
+CGPA        : 7.38  (B.Tech CSIT — Current)
+SGPA        : 8.30  (Latest Semester)
+Class XII   : 90.6% (Higher Secondary)
+Class X     : 91.4% (Secondary)
+```
+
 🔭 Currently building **NeuronHire** — AI-Powered Hiring & Workflow Platform  
 📄 **Published Researcher** — IJAITR Vol. 3, Jan–Jun 2026  
 🏆 **4× National Hackathon Finalist/Podium** across AI, GovTech & Fintech  
@@ -258,6 +266,7 @@ Real-time transaction monitoring with **PMLA compliance**, Ethereum-based immuta
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Aryan-theccool&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </div>
+
 ## `> roadmap --2026`
 
 ```
