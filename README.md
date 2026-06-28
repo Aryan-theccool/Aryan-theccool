@@ -39,10 +39,16 @@ Contact     : aryansingh230477@acropolis.in
 
 ```yaml
 # 🎓 Academics
-CGPA        : 7.38  (B.Tech CSIT — Current)
+CGPA        : 7.08  (B.Tech CSIT — Current)
 SGPA        : 8.30  (Latest Semester)
 Class XII   : 90.6% (Higher Secondary)
 Class X     : 91.4% (Secondary)
+```
+
+```yaml
+# 💼 Experience
+Intern      : Web Developer @ Chitralai (AI Photo SaaS — 20,000+ customers) | May 2025–Present
+Co-Founder  : Tokenistt — SaaS & Developer Tools | Jan 2025–Present
 ```
 
 🔭 Currently building **NeuronHire** — AI-Powered Hiring & Workflow Platform  
@@ -75,6 +81,7 @@ Class X     : 91.4% (Secondary)
 |---|---|
 | 📰 **Published Researcher** — IJAITR Vol. 3 *(Astitva: AI-Driven WebGIS for FRA Governance)* | Jan–Jun 2026 |
 | 🔴 **Oracle Certified AI Foundation Associate** | 2025 |
+| 💻 **Full Stack Web Development** (React.js, Node.js, SQL, Express.js) — Apna College Sigma Batch | 2024 |
 | 💻 **C++ Certified** — Universal Informatics | 2024 |
 
 ### 🌟 Other
@@ -127,6 +134,25 @@ Class X     : 91.4% (Secondary)
 ![WebGIS](https://img.shields.io/badge/WebGIS-Intermediate-4C1D95?style=for-the-badge)
 
 </div>
+
+---
+
+## `> experience --work`
+
+<div align="center">
+
+### 💼 Work Experience
+
+| 🏢 Company | 🧑‍💻 Role | 📅 Duration |
+|---|---|---|
+| **Chitralai** — AI-Powered Event Photo Management SaaS *(20,000+ customers, 50+ orgs)* | Web Developer Intern | May 2025 – Present |
+| **Tokenistt** — SaaS & Developer Productivity Tools | Full Stack Developer, Co-Founder | Jan 2025 – Present |
+
+</div>
+
+**Chitralai** — Building responsive React.js UI for event gallery management, QR-based selfie retrieval, and org dashboards. Integrating REST APIs for AI face recognition, smart media indexing, and private gallery workflows across college fests, corporate events, and weddings.
+
+**Tokenistt** — Launched a full-stack SaaS from zero to production for Claude API token analysis & cost prediction. Engineered 8+ RESTful endpoints, JWT auth, rate-limiting, and a prompt evaluation pipeline processing 5,000+ user inputs daily. CI/CD pipelines cut release cycles by 50%.
 
 ---
 
@@ -201,6 +227,29 @@ Transforming India's **Forest Rights Act** implementation — digitizing tribal 
 </td>
 <td width="50%" valign="top">
 
+### 🛠️ Tokenistt — Developer Productivity SaaS
+> *Co-Founded | Production SaaS*
+
+Real-time **token counting, cost prediction & prompt optimization** for the Claude API — helping developers forecast and slash API spend before execution.
+
+**Features:**
+- 💰 Real-time token counts + cost predictions for Claude API
+- 🔧 Prompt optimization & evaluation engine
+- ⚙️ 8+ RESTful API endpoints with JWT auth & rate-limiting
+- 📊 5,000+ user inputs processed daily
+- 🚀 CI/CD pipelines — 50% faster release cycles
+
+> *Know your cost before you hit send.*
+
+![Status](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square)
+![Type](https://img.shields.io/badge/Type-SaaS%20%7C%20DevTools-A78BFA?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-React.js%20%7C%20Node.js%20%7C%20Express.js-61DAFB?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛡️ RealtimeGuard — AI Fraud Detection System
 > *Blockchain-Secured Financial Intelligence*
 
@@ -220,8 +269,6 @@ Real-time transaction monitoring with **PMLA compliance**, Ethereum-based immuta
 ![Type](https://img.shields.io/badge/Type-FinTech%20%7C%20Security-EF4444?style=flat-square)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ DeRisk.biz — Corporate Governance & Risk Intelligence
@@ -243,6 +290,8 @@ A high-performance, mobile-responsive assessment platform identifying hidden gov
 ![Tech](https://img.shields.io/badge/Tech-Vanilla%20JS%20%7C%20Node.js%20%7C%20MongoDB-232F3E?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎨 Inkspace — Infinite Canvas Collaboration Tool
@@ -263,8 +312,6 @@ A beautiful, modern, infinite-canvas brainstorming workspace — drag, drop, con
 ![Tech](https://img.shields.io/badge/Tech-Next.js%20%7C%20Liveblocks%20%7C%20Yjs-000000?style=flat-square)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔍 CodePulse — AI & Static Hybrid Codebase Analyzer
@@ -286,6 +333,8 @@ A premium Next.js tool that analyzes public GitHub repositories using a hybrid a
 ![Tech](https://img.shields.io/badge/Tech-Next.js%20%7C%20TypeScript%20%7C%20Groq%20%7C%20Claude-3178C6?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏪 One Store Mysha — E-Commerce Platform
@@ -305,6 +354,9 @@ A production e-commerce website for a premium Indian fashion brand — built and
 ![Status](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square)
 ![Type](https://img.shields.io/badge/Type-E--Commerce%20%7C%20Client-FFA116?style=flat-square)
 ![Tech](https://img.shields.io/badge/Tech-React.js%20%7C%20Node.js%20%7C%20Razorpay-61DAFB?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
