@@ -221,6 +221,93 @@ Real-time transaction monitoring with **PMLA compliance**, Ethereum-based immuta
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ DeRisk.biz — Corporate Governance & Risk Intelligence
+> *CXO-Grade Risk Assessment Platform*
+
+A high-performance, mobile-responsive assessment platform identifying hidden governance vulnerabilities and legal risks — built for CXOs, founders, investors, and boards.
+
+**Features:**
+- 📋 Dual-Assessment Engine — Governance Vulnerability + Legal AI vs Enterprise Risk AI
+- ✅ Double-step "Check-then-Continue" survey logic with answer validation
+- 📰 Real-time global news tickers for governance & compliance headlines
+- 📊 Enterprise Admin Dashboard — 14-day charts, respondent logs, CSV export
+- 🗄️ Dual-database resiliency — MongoDB Atlas with automatic local JSON fallback
+
+> *Zero heavy frameworks. Near-instant load. Premium CXO-grade UX.*
+
+![Status](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square)
+![Type](https://img.shields.io/badge/Type-SaaS%20%7C%20GovTech-A78BFA?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-Vanilla%20JS%20%7C%20Node.js%20%7C%20MongoDB-232F3E?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Inkspace — Infinite Canvas Collaboration Tool
+> *Your thoughts, unfiltered.*
+
+A beautiful, modern, infinite-canvas brainstorming workspace — drag, drop, connect, and collaborate at the speed of thought. GPU-accelerated, real-time, and stunning.
+
+**Features:**
+- ♾️ Infinite drag-and-drop canvas with pan & zoom
+- ⚡ Real-time collaboration via Liveblocks + Yjs (live cursors)
+- 🌗 Seamless dark/light mode without page reload
+- 🎨 6 starter templates: System Design, Product Roadmap, Brainstorming, DSA Flowchart, Startup Planning, AI Workflow
+
+> *The best ideas need space to breathe, connect, and evolve.*
+
+![Status](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Productivity%20%7C%20Collaboration-61DAFB?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-Next.js%20%7C%20Liveblocks%20%7C%20Yjs-000000?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 CodePulse — AI & Static Hybrid Codebase Analyzer
+> *Understand any GitHub repo in seconds*
+
+A premium Next.js tool that analyzes public GitHub repositories using a hybrid architecture — combining fast deterministic static scans with deep AI-driven reasoning to eliminate hallucinations.
+
+**Features:**
+- 🧠 3 analysis modes: Smart Hybrid (default), Static Scan (no API key needed), AI Deep Dive
+- ⚡ Static scanner extracts verified facts (lockfiles, configs, routes, env vars) as AI ground truth
+- 🔐 Built-in key protection — reversed env vars bypass GitHub Push Protection scanner
+- 💬 Hybrid Q&A query engine with chat interface
+- 📊 Premium result dashboard with mode-specific loading steps
+
+> *Verified facts + AI reasoning = zero hallucinations.*
+
+![Status](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square)
+![Type](https://img.shields.io/badge/Type-DevTools%20%7C%20AI-A78BFA?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-Next.js%20%7C%20TypeScript%20%7C%20Groq%20%7C%20Claude-3178C6?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏪 One Store Mysha — E-Commerce Platform
+> *Live Client Project*
+
+A production e-commerce website for a premium Indian fashion brand — built and deployed end-to-end independently with full payment integration and optimized performance.
+
+**Features:**
+- 🛍️ Product catalog, cart, wishlist, and Razorpay checkout
+- 🖼️ Cloudinary-powered optimized image delivery
+- 🗺️ Google Maps store locator integration
+- 📱 Fully responsive across all devices
+- 🔍 SEO-friendly semantic HTML5 & structured data
+
+> *Live at onestoremysha.com — real users, real transactions.*
+
+![Status](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square)
+![Type](https://img.shields.io/badge/Type-E--Commerce%20%7C%20Client-FFA116?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-React.js%20%7C%20Node.js%20%7C%20Razorpay-61DAFB?style=flat-square)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -263,9 +350,29 @@ Real-time transaction monitoring with **PMLA compliance**, Ethereum-based immuta
 ---
 
 ## `> achievements --display`
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aryan-theccool&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aryan-theccool&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies Row 1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aryan-theccool&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&row=2" alt="GitHub Trophies Row 2" />
+
 </div>
+
+---
+
+## `> contributions --snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-theccool/Aryan-theccool/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan-theccool/Aryan-theccool/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aryan-theccool/Aryan-theccool/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
 
 ## `> roadmap --2026`
 
